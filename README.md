@@ -7,7 +7,7 @@
 
 - Technologies Used - java script , Html , css , tailwind 😍
 
-- Hooks Used : useState 
+- Hooks Used : useState. 
 
 - Role - Frontend👌
 

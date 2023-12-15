@@ -1,5 +1,5 @@
 # card-number
-- [Demo Project](https://maryamparvaz.github.io/scroll-1/)
+- [Demo Project](https://maryamparvaz.github.io/card-number/)
 
 - Developed by Maryam Parvaz 
 
